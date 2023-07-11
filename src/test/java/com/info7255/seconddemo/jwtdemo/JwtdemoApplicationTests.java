@@ -1,13 +1,13 @@
-package com.info7255.demo1;
+package com.info7255.seconddemo.jwtdemo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Demo1ApplicationTests {
+class JwtdemoApplicationTests {
 
-    @Test
-    void contextLoads() {
-    }
+	@Test
+	void contextLoads() {
+	}
 
 }
