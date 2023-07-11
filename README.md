@@ -2,7 +2,7 @@
 REST API prototype model to handle **large scale** medical insurance plans
 
 ## Architecture  
-![**Architecture**](https://github.com/SaiChandGhanta/medical-insurance-plans/blob/main/ArchitectureDiagram.jpg)
+![**Architecture**](https://github.com/jayanth-neu/medical-insurance-plans/blob/main/ArchitectureDiagram.jpg)
 
 
 ## Overview
